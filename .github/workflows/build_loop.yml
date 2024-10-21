@@ -282,7 +282,7 @@ jobs:
           /bin/bash -c "$(curl -fsSL \
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           future_carbs_4h \
-          2hlollipop \
+          basal_lock \
           profiles
          
           # the final customization listed above CANNOT have a continuation character
