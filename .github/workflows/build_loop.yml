@@ -291,6 +291,11 @@ jobs:
           future_carbs_4h \
           basal_lock \
           2hlollipop \
+          override_sens \
+          now_line \
+          meal_days \
+          live_activity \
+          negative_insulin \
           profiles
          
           # the final customization listed above CANNOT have a continuation character
