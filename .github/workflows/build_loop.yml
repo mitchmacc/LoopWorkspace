@@ -221,7 +221,6 @@ jobs:
           override_sens \
           now_line \
           meal_days \
-          live_activity \
           negative_insulin \
           profiles
          
